@@ -22,7 +22,7 @@ It is suitable for portfolio display and demonstrates basic web development abil
 
 TESTS:
 
-<img width="1092" height="606" alt="Screenshot 2025-11-19 055714" src="https://github.com/user-attachments/assets/0fd8699c-41e3-4e94-b863-c1908943bb3e" />
+
 <img width="1092" height="606" alt="Screenshot 2025-11-19 055714" src="https://github.com/user-attachments/assets/3e59d389-971d-4875-918c-694c0bc79ba1" />
 
 <img width="903" height="579" alt="Screenshot 2025-11-19 055754" src="https://github.com/user-attachments/assets/3c5d0cce-00c2-402d-99be-1c7c77fa42a3" />

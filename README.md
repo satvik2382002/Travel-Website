@@ -7,6 +7,9 @@ This project demonstrates web design skills and photo graphy skill, clean layout
 - HTML
 - CSS
 
+<img width="1054" height="669" alt="Screenshot 2025-11-19 043348" src="https://github.com/user-attachments/assets/469c470c-28fb-4ef0-ba2a-24e9877a9d49" />
+
+
  Features
 - Image gallery
 - Navigation menu

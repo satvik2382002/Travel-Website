@@ -7,7 +7,18 @@ This project demonstrates web design skills and photo graphy skill, clean layout
 - HTML
 - CSS
 
-<img width="1054" height="669" alt="Screenshot 2025-11-19 043348" src="https://github.com/user-attachments/assets/469c470c-28fb-4ef0-ba2a-24e9877a9d49" />
+<img width="1092" height="606" alt="Screenshot 2025-11-19 055714" src="https://github.com/user-attachments/assets/3e59d389-971d-4875-918c-694c0bc79ba1" />
+
+<img width="903" height="579" alt="Screenshot 2025-11-19 055754" src="https://github.com/user-attachments/assets/3c5d0cce-00c2-402d-99be-1c7c77fa42a3" />
+
+<img width="1462" height="514" alt="Screenshot 2025-11-19 055944" src="https://github.com/user-attachments/assets/178bd7e8-caa5-4fda-97d6-7332da342c40" />
+
+
+<img width="1890" height="896" alt="Screenshot 2025-11-16 195003" src="https://github.com/user-attachments/assets/15910d0c-ea61-4df3-8944-224551fdbd59" />
+
+<img width="1919" height="908" alt="Screenshot 2025-11-16 194039" src="https://github.com/user-attachments/assets/908da76c-d1db-4f3f-b722-14d7a3fbe10d" />
+
+
 
 
  Features
